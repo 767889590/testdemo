@@ -6,6 +6,6 @@ package com.edianzu;
  */
 public class HelloWorld2 {
     public void fun1(){
-        System.out.println("test1");
+        System.out.println("test2");
     }
 }
