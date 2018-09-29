@@ -8,7 +8,5 @@ public class HelloWorld2 {
     public void fun1(){
         System.out.println("test2");
         System.out.println("test4");
-        System.out.println("test5");
-        System.out.println("test6");
     }
 }
